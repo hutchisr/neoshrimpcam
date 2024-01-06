@@ -1,5 +1,7 @@
 <script>
-  import "bootstrap/dist/css/bootstrap.min.css";
+  import { Styles } from "@sveltestrap/sveltestrap";
 </script>
+
+<Styles />
 
 <slot />
